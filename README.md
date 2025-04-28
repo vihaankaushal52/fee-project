@@ -4,7 +4,6 @@ Welcome to my Personal Resume Page project! This is a simple, elegant, and respo
 
 🌐 Live Demo
 🔗 View Live Resume
-(Replace with your actual URL)
 
 ✨ Features
 Clean and modern design
